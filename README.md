@@ -161,3 +161,5 @@ Our main concern is the sdcard.img file. Its size should be around 150MB.
        ![](README_Photos/30.png)
        ![](README_Photos/31.png)
 
+
+That's all folks!
