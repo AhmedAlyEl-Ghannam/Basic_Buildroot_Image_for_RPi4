@@ -151,7 +151,6 @@ Our main concern is the sdcard.img file. Its size should be around 150MB.
 
 
 4. Finally, we can boot it. Down below are screenshots showcasing most of the features I added to the final image.
-       ![](README_Photos/22.png)
        ![](README_Photos/23.png)
        ![](README_Photos/24.png)
        ![](README_Photos/25.png)
