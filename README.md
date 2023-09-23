@@ -92,6 +92,8 @@ Our main concern is the sdcard.img file. Its size should be around 150MB.
 
 2. You should see it boot and then get greeted with a login prompt from buildroot. Enter the username as `root` and it will get you into the shell.
 
+   ![](README_Photos/21.png)
+
 
 
 ## **BONUS**: Exploring Features Available in `menuconfig`, Adding Them to the Final Image, and Testing them One by One
@@ -149,4 +151,14 @@ Our main concern is the sdcard.img file. Its size should be around 150MB.
 
 
 4. Finally, we can boot it. Down below are screenshots showcasing most of the features I added to the final image.
+       ![](README_Photos/22.png)
+       ![](README_Photos/23.png)
+       ![](README_Photos/24.png)
+       ![](README_Photos/25.png)
+       ![](README_Photos/26.png)
+       ![](README_Photos/27.png)
+       ![](README_Photos/28.png)
+       ![](README_Photos/29.png)
+       ![](README_Photos/30.png)
+       ![](README_Photos/31.png)
 
